@@ -1,0 +1,30 @@
+img {
+	width: 2035px;
+	margin: auto;
+} 
+
+body {
+	font-family: "Arial";
+	color: #FFFFFF;
+}
+
+div {
+	background: #403434;
+	padding-right: 20px;
+	padding-left: 20px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+h1 {
+	text-align: center;
+	position: absolute;
+	left: 55px;
+	top: 161px;
+	color: #F1DFA8;
+	font-size: 150px;
+}
+
+a{
+	color: #05FF00;
+}
